@@ -1,0 +1,7 @@
+print("Sup dude, why don't you give me to 2 number?")
+num_1 = float(input("Ok, first number: "))
+num_2 = float(input("Ok, second number: "))
+print("I will be diving the first number by the second number")
+print("diving...")
+result = float((num_1/num_2))
+print("The result is: ", result)
